@@ -1,0 +1,5 @@
+http://localhost:7777/user/users/byname/yalla
+
+http://localhost:8083/user/users/test/yalla
+http://localhost:8084/booking/book/yalla
+http://localhost:7777/book/booking/book/yalla
